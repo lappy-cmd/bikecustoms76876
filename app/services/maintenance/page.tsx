@@ -50,7 +50,7 @@ const services: ServiceItem[] = [
 export default function MaintenancePage() {
   return (
     <ServicePageLayout
-      title="Maintenance",
+      title="Maintenance"
       subtitle="Regular Service"
       description="Regular maintenance is key to a reliable, long-lasting motorcycle. Our service packages are designed to keep your bike running smoothly mile after mile. We follow manufacturer specifications for all makes and models."
       icon={Shield}
